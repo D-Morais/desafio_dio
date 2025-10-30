@@ -1,4 +1,5 @@
 # 01_concatenando_dados.py
+
 def concatenar_dados() -> None:
     """Recebe dois textos e exibe o resultado concatenado."""
     primeiro_texto = input("Digite o primeiro texto: ").strip()
