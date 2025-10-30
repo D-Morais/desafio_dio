@@ -1,14 +1,7 @@
 # Resolvendo Códigos em Python com o GitHub Copilot
 
 Olá!!   
-Aqui veremos algumas resoluções de códigos em **Python** utilizando o **GitHub Copilot**.
-
----
-
-## ⚠️ Atenção
-Não tem acesso ao **GitHub Copilot**?!  
-Não tem problema!!   
-Que tal utilizar o **ChatGPT** como seu copiloto de estudos? 🤖  
+Aqui veremos algumas resoluções de códigos em **Python** utilizando o **ChatGPT** como copiloto de estudos.
 
 ---
 
@@ -20,7 +13,6 @@ Vamos receber dois dados diferentes do usuário e concatená-los em uma única s
 - Manipulação de Strings (`str`)
 - Concatenação
 - Entrada de dados
-- Utilização eficiente do GitHub Copilot
 
 ---
 
@@ -34,7 +26,6 @@ Depois, teremos que retornar a string repetida o número de vezes informado.
 - Números Inteiros (`int`)
 - Múltiplas repetições
 - Entrada de dados
-- Aproveitar as sugestões do GitHub Copilot
 
 ---
 
@@ -45,7 +36,6 @@ Vamos solicitar como entrada dois números e depois realizar uma operação simp
 ### O que aprenderemos:
 - Operações Matemáticas Básicas
 - Entrada de dados
-- Utilização eficiente do GitHub Copilot
 
 ---
 
@@ -53,12 +43,11 @@ Vamos solicitar como entrada dois números e depois realizar uma operação simp
 **Descrição:**  
 Como entrada, receba um número inteiro e verifique se ele é par ou ímpar.  
 💡 *Dica:* Utilize condicionais (`if`, `else`) e o operador módulo (`%`).  
-Se possível, use o GitHub Copilot (ou outra IA) para otimizar a estrutura do código.
 
 ### O que aprenderemos:
 - Uso de condicionais em Python (`if`, `else`)
 - Conceito e aplicação do operador de módulo (`%`)
-- Exploração do uso de uma IA (como GitHub Copilot) para otimizar código
+- Exploração do uso de uma IA (como ChatGPT) para otimizar código
 
 ---
 
